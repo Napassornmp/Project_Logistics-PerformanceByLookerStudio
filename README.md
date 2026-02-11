@@ -1,5 +1,7 @@
 # Project_Logistics-PerformanceByLookerStudio
 Dashboard นี้ถูกออกแบบมาเพื่อวิเคราะห์ประสิทธิภาพการขนส่งสินค้า (Logistics Performance) และพฤติกรรมการสั่งซื้อของผู้บริโภค (Consumer Behavior) โดยรวบรวมข้อมูลดิบมานำเสนอในรูปแบบภาพเพื่อให้เห็นแนวโน้มการจัดส่ง ระยะเวลาดำเนินการ และความพึงพอใจของลูกค้าในแต่ละภูมิภาค 
+
+
 รายวิชา Data Science& Analytics for business
 
 
