@@ -3,6 +3,6 @@ Dashboard นี้ถูกออกแบบมาเพื่อวิเค�
 รายวิชา Data Science& Analytics for business
 
 🔗 Interactive Dashboard
-👉 View Live Looker Studio Dashboard ((https://lookerstudio.google.com/reporting/daea7f5e-e6c5-4d20-bbc7-130d8c74b69f))
+👉 View Live Looker Studio Dashboard (https://lookerstudio.google.com/reporting/daea7f5e-e6c5-4d20-bbc7-130d8c74b69f)
 
 Tools : Google Sheet, Looker Studio
